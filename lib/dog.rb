@@ -6,8 +6,7 @@ class Dog
   end
   binding.pry  
     
-    @name =
-end
+    
  
 
   

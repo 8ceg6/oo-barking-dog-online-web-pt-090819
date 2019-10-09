@@ -7,16 +7,4 @@ class Dog
   def name
     @a_dogs_name
   end
-  
-  
-  
-  binding.pry  
-    
-    
- 
-
-  
-
-
 end
- 

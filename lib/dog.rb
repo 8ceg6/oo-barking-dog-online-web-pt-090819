@@ -1,5 +1,5 @@
 # Your code goes here!
-require "pry"
+require 'Pry'
 class Dog 
   def name= 
     @name =

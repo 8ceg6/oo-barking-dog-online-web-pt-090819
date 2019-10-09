@@ -2,8 +2,9 @@
 require 'pry'
 class Dog 
   def name= dogs_name
-    @name 
-    
+    @a_dogs_name=dogs_name
+  end
+  binding.pry  
     
     @name =
 end
